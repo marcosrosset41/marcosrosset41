@@ -29,7 +29,7 @@ Marcos Vinicius Rosset, 23 anos. Com mais de 3 anos de experiência como Analist
     align="left" 
     alt="Azure"
     title="Azure" 
-    width="30px" 
+    width="28px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"  
 />
@@ -54,7 +54,7 @@ Marcos Vinicius Rosset, 23 anos. Com mais de 3 anos de experiência como Analist
     align="left" 
     alt="Scikit Learn" 
     title="Scikit Learn"
-    width="38px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
 />
@@ -80,7 +80,7 @@ Marcos Vinicius Rosset, 23 anos. Com mais de 3 anos de experiência como Analist
     align="left" 
     alt="Jupyter" 
     title="jupyter"
-    width="30px" 
+    width="33px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
 />
