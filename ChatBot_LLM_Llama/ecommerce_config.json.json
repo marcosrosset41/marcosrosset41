@@ -1,0 +1,12 @@
+
+[
+    {
+      "url": "https://www.loja1.com/busca?q=",
+      "xpath_busca": "//input[@id='search']"
+    },
+    {
+      "url": "https://www.loja2.com/search?q=",
+      "xpath_busca": "//input[@name='q']"
+    }
+  ]
+  
