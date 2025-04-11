@@ -28,7 +28,7 @@ Este projeto é um chatbot experimental que permite ao usuário interagir via Wh
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/marcosrosset41/Python/ChatBot_LLM_Llama.git](https://github.com/marcosrosset41/Python/tree/main/ChatBot_LLM_Llama)
+git clone https://github.com/marcosrosset41/Python/ChatBot_LLM_Llama.git
 cd ChatBot_LLM_Llama
 ```
 
